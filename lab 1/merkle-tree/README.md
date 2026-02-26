@@ -1,3 +1,7 @@
+# Решение лабораторной работы номер 1
+
+<img width="602" height="366" alt="image" src="https://github.com/user-attachments/assets/44c3ee7c-bb9b-409b-abd7-e6c614bc29e7" />
+
 # Merkle Tree
 
 В проекте представлены основные классы данных, которые используются в блокчейне. 
